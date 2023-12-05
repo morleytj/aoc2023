@@ -7,3 +7,10 @@ ex3.txt
 ex3_p2.txt
 ex4.txt
 inputday4.txt
+water_to_light.txt
+temp_to_hum.txt
+soil_to_fert.txt
+seed_to_soil.txt
+light_to_temp.txt
+hum_to_loc.txt
+fert_to_water.txt
